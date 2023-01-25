@@ -4,10 +4,6 @@ Startup Generator
 
 ## If you want to follow along
 
-Our Frontend with Flutter recording should be out soon (and will be updated here)
-
-Or you can follow this codelab:
-
 - [Write Your First Flutter App](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0)
 
 ## Getting Started
